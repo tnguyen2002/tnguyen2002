@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### CS Student @ Stanford University☾
+#### CS Student @ Stanford University 
 Curr:
 Deep Learning Researcher @ Stanford ML Group
 

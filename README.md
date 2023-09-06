@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there 👋
+
+#### CS Student @ Stanford University☾
+Curr:
+Deep Learning Researcher @ Stanford ML Group
+
+Prev: 
+ML Research Intern @ [NASA Ames Center](https://www.nasa.gov/ames);<br>
+Instructor @ InspiritAi [https://www.inspiritai.com/];<br>
 
 <!--
-**tnguyen2002/tnguyen2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚙️ Currently building more personal projects & recruit
+- 📫 Email me: anhn@stanford.edu  Connect: https://www.linkedin.com/in/anhtomnguyen/
+- ⚡️ Fun fact: I love volleyball
 -->

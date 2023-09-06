@@ -6,7 +6,7 @@ Deep Learning Researcher @ Stanford ML Group
 
 Prev: 
 ML Research Intern @ [NASA Ames Center](https://www.nasa.gov/ames);<br>
-Instructor @ InspiritAi [https://www.inspiritai.com/];<br>
+Instructor @ InspiritAi (https://www.inspiritai.com/);<br>
 
 <!--
 - ⚙️ Currently building more personal projects & recruit

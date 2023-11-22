@@ -1,8 +1,6 @@
 ### Hello there 👋
 
 #### CS Student @ Stanford University 
-Curr:
-Student @ Stanford University
 
 Prev: <br>
 ML Research Intern @ [NASA Ames Center](https://www.nasa.gov/ames);<br>

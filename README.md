@@ -2,7 +2,7 @@
 
 #### CS Student @ Stanford University 
 Curr:
-Deep Learning Researcher @ Stanford ML Group
+Student @ Stanford University
 
 Prev: <br>
 ML Research Intern @ [NASA Ames Center](https://www.nasa.gov/ames);<br>

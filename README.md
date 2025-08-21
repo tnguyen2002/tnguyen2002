@@ -1,8 +1,10 @@
-### Hello there 👋
 
-#### CS Student @ Stanford University 
+### tom nguyen
+currently: unemployed by choice chasing my must haves, coding everyday, and introspecting,
+just finished b.s & m.s in cs @stanford
+things that make me happy: volleyball, journaling, and making occasional videos on youtube 
 
-⚙️ Currently thumbing my twiddles<br>
-📫 Email me: anhn@stanford.edu  Connect: https://www.linkedin.com/in/anhtomnguyen/  <br>
-⚡️ Fun fact: I love volleyball <br>
+contact: tomthuckynguyen@gmail.com
+Email me: tomthuckynguyen@gmail.com 
+connect: https://www.linkedin.com/in/anhtomnguyen/  <br>
 

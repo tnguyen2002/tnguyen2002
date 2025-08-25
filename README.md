@@ -1,6 +1,6 @@
 
 ### tom nguyen
-currently: unemployed by choice chasing my must haves, coding everyday, and introspecting,
+currently: unemployed by choice, coding, dieting, and exercising everyday
 just finished b.s & m.s in cs @stanford
 things that make me happy: volleyball, journaling, and making occasional videos on youtube 
 

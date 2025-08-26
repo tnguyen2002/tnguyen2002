@@ -1,6 +1,4 @@
-### tom nguyen
-
-Hi, I’m tom 👋
+### tom nguyen 👋
 
 currently: coding, dieting, and exercising everyday
 just finished b.s & m.s in cs @stanford
